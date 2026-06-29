@@ -1,7 +1,10 @@
 # 💫 About Me:
                                           👋 Hi, I'm T K Vinay
+                                          
                 Aspiring Software Developer | AI Enthusiast | 
+                
                 🤝 I’m looking for help with :  AI & Machine Learning , Full Stack Development  ,  Fast API & React Projects
+                
                 🌱 I’m currently learning : 🐳 Docker , 🔗 REST APIs , 🗄️ MongoDB
 
 # 📊 GitHub Stats:
