@@ -1,5 +1,8 @@
 # 💫 About Me:
-                                          👋 Hi, I'm T K Vinay<br><br>Aspiring Software Developer | AI Enthusiast | Product management Basic<br><br>🤝 I’m looking for help with :  <br>       AI & Machine Learning<br>       Full Stack Development<br>       Fast API & React Projects<br><br>🌱 I’m currently learning : React.js , SQL<br>
+                                          👋 Hi, I'm T K Vinay
+                Aspiring Software Developer | AI Enthusiast | 
+                🤝 I’m looking for help with :  AI & Machine Learning , Full Stack Development  ,  Fast API & React Projects
+                🌱 I’m currently learning : 🐳 Docker , 🔗 REST APIs , 🗄️ MongoDB
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=TKVINAY17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
