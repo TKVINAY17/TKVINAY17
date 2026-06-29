@@ -1,6 +1,18 @@
 # 💫 About Me:
-I'm currently pursing my final year Engineering <br>I'm passionate about software development and Testing<br>you can reach out me here :  tkvinay17@gmail.com<br>
+                                          👋 Hi, I'm T K Vinay<br><br>Aspiring Software Developer | AI Enthusiast | Product management Basic<br><br>🤝 I’m looking for help with :  <br>       AI & Machine Learning<br>       Full Stack Development<br>       Fast API & React Projects<br><br>🌱 I’m currently learning : React.js , SQL<br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=TKVINAY17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=TKVINAY17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TKVINAY17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TKVINAY17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=TKVINAY17&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinay__gowda_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinay-gowda-55a933299/) 
