@@ -1,7 +1,7 @@
 # 💫 About Me:
                                           👋 Hi, I'm T K Vinay
                                           
-                Aspiring Software Developer | AI Enthusiast | 
+                Aspiring Software Developer | AI Enthusiast | Product management
                 
                 🤝 I’m looking for help with :  AI & Machine Learning , Full Stack Development  ,  Fast API & React Projects
                 
