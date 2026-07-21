@@ -1,39 +1,117 @@
-# 💫 About Me:
-                                          👋 Hi, I'm T K Vinay
-                                          
-                Aspiring Software Developer | AI Enthusiast | Product management
-                
-                🤝 I’m looking for help with :  AI & Machine Learning , Full Stack Development  ,  Fast API & React Projects
-                
-                🌱 I’m currently learning : 🐳 Docker , 🔗 REST APIs , 🗄️ MongoDB
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=TKVINAY17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=TKVINAY17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TKVINAY17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Hi%20There,%20I'm%20Vinay%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20%26%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TKVINAY17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://github.com/TKVINAY17">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Software+Engineer;Python+%7C+AI+%26+Machine+Learning;Full+Stack+Developer;FastAPI+%2B+React+Enthusiast" alt="Typing SVG" />
+</a>
 
----
-[![](https://komarev.com/ghpvc/?username=TKVINAY17&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=data:image/png;base64,&logoColor=white&labelColor=1a1a1a)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinay__gowda_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinay-gowda-55a933299/) 
+<img src="https://komarev.com/ghpvc/?username=TKVINAY17&color=7dd3fc&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/TKVINAY17?label=Followers&style=flat-square&color=7dd3fc" alt="Followers" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=TKVINAY17&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=TKVINAY17&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TKVINAY17&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TKVINAY17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=TKVINAY17&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧠 Who I Am
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```typescript
+const vinay = {
+  title: "Software Engineer",
+  stack: {
+    languages: ["Python"],
+    focus: ["AI & Machine Learning", "Full Stack Development"],
+    frameworks: ["FastAPI", "React"],
+  },
+  launchedProjects: ["smart-inventory-management"],
+  certifications: [], // add yours here
+  status: "Building AI-powered full stack applications",
+  openTo: ["Full-time roles", "Collaborations", "Interesting problems"],
+};
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 📦 Smart Inventory Management
+
+An upgraded inventory system that goes beyond basic product tracking — delivering low-stock alerts, sales analytics, demand forecasting, and supplier management in one platform. Combines full-stack development, database management, and AI/ML into a strong portfolio-grade project.
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TKVINAY17&repo=smart-inventory-management&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Smart Inventory Management" />
+</div>
+
+| Layer | Technology |
+|-------|------------|
+| Frontend | React |
+| Backend | FastAPI |
+| Language | Python |
+| Intelligence | Demand Forecasting / ML |
+
+<div align="center">
+
+[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TKVINAY17/smart-inventory-management)
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/>
+
+**Backend / Infra**
+
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI"/>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TKVINAY17&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&hide_border=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKVINAY17&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Top Languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=TKVINAY17&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" />
+
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TKVINAY17&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TKVINAY17&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-gowda-55a933299/)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=150&section=footer&animation=twinkling" width="100%"/>
+
+</div>
