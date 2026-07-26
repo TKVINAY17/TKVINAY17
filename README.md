@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="C:\Users\vinay\Downloads\1652937_applicant_Photo.jpg"
+<img src=["C:\Users\vinay\Downloads\1652937_applicant_Photo.jp](https://www.google.com/imgres?q=software%20engineering&imgurl=https%3A%2F%2Fwww.questglobal.com%2Fwp-content%2Fuploads%2F2024%2F04%2Fsoftware-engineering-challenges.webp&imgrefurl=https%3A%2F%2Fwww.questglobal.com%2Fservices%2Fsoftware-engineering%2F&docid=_QTC5dX1tJVfgM&tbnid=Zhn4g4qjgv6XxM&vet=12ahUKEwiZz-y42_CVAxUiWHADHXmGNQ0QnPAOegQILxAA..i&w=980&h=670&hcb=2&ved=2ahUKEwiZz-y42_CVAxUiWHADHXmGNQ0QnPAOegQILxAA)g"
 
 <a href="https://github.com/TKVINAY17">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Software+Engineer;Python+%7C+AI+%26+Machine+Learning;Full+Stack+Developer;FastAPI+%2B+React+Enthusiast" alt="Typing SVG" />
