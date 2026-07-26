@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Hi%20There,%20I'm%20Vinay%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20%26%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="C:\Users\vinay\Downloads\1652937_applicant_Photo.jpg"
 
 <a href="https://github.com/TKVINAY17">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Software+Engineer;Python+%7C+AI+%26+Machine+Learning;Full+Stack+Developer;FastAPI+%2B+React+Enthusiast" alt="Typing SVG" />
