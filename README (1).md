@@ -196,3 +196,4 @@ openTo:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1e1b4b&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+
